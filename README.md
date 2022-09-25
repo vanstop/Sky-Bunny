@@ -41,5 +41,5 @@ The license: <a href="https://www.gnu.org/licenses/gpl-3.0.pt-br.html">GNU Gener
 
 ## 🕹 Download and play
 
-<a href=""><img src="https://i.imgur.com/PIwhEHP.png" width=150px></img></a>
+<a href="https://github.com/vanstop/Sky-Bunny/releases/download/Final_Release/Sky-Bunny.apk"><img src="https://i.imgur.com/PIwhEHP.png" width=150px></img></a>
 <a href="https://agirgames.itch.io/sky-bunny"><img src="https://i.imgur.com/m3Coa7Q.png" width=150px></img></a>
