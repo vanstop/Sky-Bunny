@@ -3,19 +3,19 @@
 <table align="center">
   <tr>
     <td align="center">
-        <img src="https://img.itch.zone/aW1hZ2UvNjkzODIwLzM4Mjc4MzAuZ2lm/original/5UO73L.gif" height="275"  />
+        <img src="https://img.itch.zone/aW1hZ2UvNjkzODIwLzM4Mjc4MzAuZ2lm/original/5UO73L.gif" height="250"  />
     </td>
     <td align="center">
-        <img src="https://img.itch.zone/aW1hZ2UvNjkzODIwLzM4Mjc4NjIuZ2lm/original/6DZOhV.gif" height="275"  />
+        <img src="https://img.itch.zone/aW1hZ2UvNjkzODIwLzM4Mjc4NjIuZ2lm/original/6DZOhV.gif" height="250"  />
     </td>
     <td align="center">
-        <img src="https://img.itch.zone/aW1hZ2UvNjkzODIwLzM4MjY1ODcuanBn/original/tVFBda.jpg" height="275"  />
+        <img src="https://img.itch.zone/aW1hZ2UvNjkzODIwLzM4MjY1ODcuanBn/original/tVFBda.jpg" height="250"  />
     </td>
     <td align="center">
-        <img src="https://img.itch.zone/aW1hZ2UvNjkzODIwLzM4MjY1OTEuanBn/original/1N2XGs.jpg" height="275"  />
+        <img src="https://img.itch.zone/aW1hZ2UvNjkzODIwLzM4MjY1OTEuanBn/original/1N2XGs.jpg" height="250"  />
     </td>
     <td align="center">
-        <img src="https://img.itch.zone/aW1hZ2UvNjkzODIwLzM4MjY1OTIuanBn/original/WX6H99.jpg" height="275"  />
+        <img src="https://img.itch.zone/aW1hZ2UvNjkzODIwLzM4MjY1OTIuanBn/original/WX6H99.jpg" height="250"  />
     </td>
   </tr>
 </table>
